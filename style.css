@@ -581,7 +581,7 @@ background-color: var(--main-color);
   align-items: center;
   margin: 0%;
   flex-direction: column;
-    over-flow:hidden;
+    overflow:hidden;
   padding: 0%;
 }
 .page6 h5{
